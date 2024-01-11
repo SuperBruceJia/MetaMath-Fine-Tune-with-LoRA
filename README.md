@@ -1,2 +1,2 @@
-# Fine-Tune MetaMath Database with LLaMA2-LoRA
-Fine-tuning and Inference codes of the MetaMath Dataset
+# Fine-Tune LLaMA2-LoRA on MetaMath Database
+Fine-tuning and Inference codes on the MetaMath Dataset
