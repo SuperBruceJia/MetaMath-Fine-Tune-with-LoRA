@@ -2,6 +2,18 @@ MIT License
 
 Copyright (c) 2023 Shuyue Jia
 
+SPECIAL ACKNOWLEDGMENT
+This work was finished during my 2023 fall semester research rotation (Sept. - Nov., 2023)
+at the Dependable Computing Laboratory, Department of Electrical and Computer Engineering,
+Boston University, MA, USA, under the supervision of Prof. Wenchao Li.
+Insightful discussions with Dr. Weichao Zhou.
+
+DEPENDENCY ACKNOWLEDGMENT
+vLLM (Apache-2.0 license): https://github.com/vllm-project/vllm and https://github.com/troph-team/vllm
+Styleformer (Apache-2.0 license): https://github.com/PrithivirajDamodaran/Styleformer
+Parrot_Paraphraser (Apache-2.0 license): https://github.com/PrithivirajDamodaran/Parrot_Paraphraser
+Part of the codes are modified by Shuyue Jia for this project
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
