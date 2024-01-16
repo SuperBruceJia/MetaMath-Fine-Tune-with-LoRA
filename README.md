@@ -29,6 +29,6 @@ Fine-tuning and Inference codes on the MetaMath Dataset
 # Deployment
 ```python
 # Load the Pre-trained LoRA Adapter
-model.load_adapter("shutter/metamath_lora_llama2_7b_4_epoch")
+model.load_adapter("shuyuej/metamath_lora_llama2_7b_4_epoch")
 model.enable_adapters()
 ```
