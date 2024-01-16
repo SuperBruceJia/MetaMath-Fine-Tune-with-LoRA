@@ -1,4 +1,4 @@
-# Fine-tune LLaMA 2 (7B) with LoRA on meta-math/MetaMathQA
+# Fine-tune LLaMA 2 (7B) with LoRA on meta-math/MetaMathQA Dataset
 Fine-tuning and Inference codes on the MetaMath Dataset
 
 [![Code License](https://img.shields.io/badge/Code%20License-MIT-green.svg)](CODE_LICENSE)
