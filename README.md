@@ -11,7 +11,7 @@ Fine-tuning and Inference codes on the MetaMath Dataset
 `MetaMath-Fine-Tune-with-LoRA` is trained to reason and answer mathematical problems on [`meta-math/MetaMathQA`](https://huggingface.co/datasets/meta-math/MetaMathQA) dataset. We used [`meta-llama/Llama-2-7b-hf`](https://huggingface.co/meta-llama/Llama-2-7b-hf) as a base model and used **LoRA to fine-tune it**.
 
 ### Model Description
-- **Project GitHub Page:** [https://github.com/akjindal53244/Arithmo-Mistral-7B](https://github.com/SuperBruceJia/MetaMath-Fine-Tune-with-LoRA)
+- **Project GitHub Page:** [https://github.com/SuperBruceJia/MetaMath-Fine-Tune-with-LoRA](https://github.com/SuperBruceJia/MetaMath-Fine-Tune-with-LoRA)
 - **Developed by:** [Shuyue Jia](https://shuyuej.com/) in December, 2023
 - **Funded by:** Boston University SCC
 - **Model type:** fine-tuned
